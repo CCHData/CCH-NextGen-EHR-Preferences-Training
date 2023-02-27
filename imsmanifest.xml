@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="no" ?><manifest identifier="com.scorm.elucidat.build.63ebd63bd0f99_1676400236" version="1"
+    xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+    xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:lom="http://ltsc.ieee.org/xsd/LOM"
+    xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                       http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                       http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd
+                       http://ltsc.ieee.org/xsd/LOM lom.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+      </metadata>
+  <!-- There is just one organization. The organization contains just one item.-->
+    <organizations default="elucidat_63ebd63bd0f99_1676400236">
+        <organization identifier="elucidat_63ebd63bd0f99_1676400236">
+            <title>NextGen Preferences Training</title>
+            <item identifier="item_63ebd63bd0f99_1676400236" identifierref="resource_63ebd63bd0f99_1676400236">
+                <title>NextGen Preferences Training</title>
+                <adlcp:masteryscore>80</adlcp:masteryscore>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="resource_63ebd63bd0f99_1676400236" type="webcontent" adlcp:scormtype="sco" href="launch.html">
+           <file href="vendor/mediaelement/background.png"/>
+           <file href="vendor/mediaelement/silverlightmediaelement.xap"/>
+           <file href="vendor/mediaelement/controls-ted.png"/>
+           <file href="vendor/mediaelement/controls.svg"/>
+           <file href="vendor/mediaelement/controls.png"/>
+           <file href="vendor/mediaelement/controls-wmp-bg.png"/>
+           <file href="vendor/mediaelement/loading.gif"/>
+           <file href="vendor/mediaelement/bigplay.svg"/>
+           <file href="vendor/mediaelement/bigplay.png"/>
+           <file href="vendor/mediaelement/flashmediaelement-cdn.swf"/>
+           <file href="vendor/mediaelement/flashmediaelement-cdn-2.22.0.swf"/>
+           <file href="vendor/mediaelement/controls-wmp.png"/>
+           <file href="vendor/mediaelement/mediaelement-and-player.min.js"/>
+           <file href="vendor/mediaelement/flashmediaelement.swf"/>
+           <file href="vendor/modernizr-2.6.2.min.js"/>
+           <file href="vendor/material/icomoon.ttf"/>
+           <file href="vendor/material/icomoon.eot"/>
+           <file href="vendor/material/icomoon.svg"/>
+           <file href="vendor/material/icomoon.woff"/>
+           <file href="vendor/elucidat-v2.0.min.css"/>
+           <file href="vendor/fontawesome/icomoon.ttf"/>
+           <file href="vendor/fontawesome/icomoon.eot"/>
+           <file href="vendor/fontawesome/icomoon.svg"/>
+           <file href="vendor/fontawesome/icomoon.woff"/>
+           <file href="vendor/preview_commenting.build.min.js"/>
+           <file href="vendor/placeholder-image.png"/>
+           <file href="vendor/jquery.xdr.js"/>
+           <file href="vendor/typicon/icomoon.ttf"/>
+           <file href="vendor/typicon/icomoon.eot"/>
+           <file href="vendor/typicon/icomoon.svg"/>
+           <file href="vendor/typicon/icomoon.woff"/>
+           <file href="vendor/style-editcontrols.build.min.css"/>
+           <file href="vendor/bootstrap/fontawesome-webfont.woff"/>
+           <file href="vendor/bootstrap/fontawesome-webfont.ttf"/>
+           <file href="vendor/bootstrap/fontawesome-webfont.eot"/>
+           <file href="vendor/bootstrap/glyphicons-halflings-white.png"/>
+           <file href="vendor/bootstrap/glyphicons-halflings.png"/>
+           <file href="vendor/bootstrap/fontawesome-webfont.woff2"/>
+           <file href="vendor/bootstrap/fontawesome-webfont.svg"/>
+           <file href="vendor/elucidat-v5.0.min.js"/>
+           <file href="launch.html"/>
+           <file href="login.html"/>
+           <file href="pages/627d71eb35176.js"/>
+           <file href="pages/627d71eb2f6f0.js"/>
+           <file href="assets/afb312769a3fa3c787583e5c83950850.png"/>
+           <file href="assets/bd7ab269fa2dd93b5e26b83389110a4c.png"/>
+           <file href="assets/55bd3f41f13eaea0335c10c53d2d6624.png"/>
+           <file href="assets/490ce12a2a23855ddcf7a0f2a682bff1.png"/>
+           <file href="assets/8ca09e8ab9784fedf96775a3052c7fed.png"/>
+           <file href="assets/0eb86352d7d02c0eb9706b60c6a2ec34.png"/>
+           <file href="assets/63ebd63bd0f99.js"/>
+           <file href="assets/56068c0b7d4af7804b2cbe97de074dc2.png"/>
+           <file href="assets/db918443785ae517b66f218a8520b797.png"/>
+           <file href="assets/e1b90aede11b5eda91073eccbf8d231d.png"/>
+           <file href="assets/5058024a2a9313c38ea4f066b172dd51.png"/>
+           <file href="assets/3dde40febe68762e925a96ed53bf194c.png"/>
+           <file href="assets/1300b09457a068e0f169ea03136add50.png"/>
+           <file href="assets/b80aff5840e626debd350920e74fa96a.png"/>
+           <file href="assets/606063b00d0642af4f708d2740d16d36.png"/>
+           <file href="assets/bad6603ccee61d7d4d11214acf86ad21.png"/>
+           <file href="assets/b330ac94339bb233e48e008667b8d95f.png"/>
+           <file href="assets/33b22d6dabcd41109d4bc5f3c420c6d2.png"/>
+           <file href="assets/cd79b41a2ea45483a050e40aecad7ad3.png"/>
+           <file href="assets/7406cca8e33d9a66994028ce64f1c5f8.png"/>
+           <file href="assets/63ebd63bd0f99.css"/>
+        </resource>
+    </resources>
+</manifest>
